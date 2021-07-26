@@ -1,0 +1,61 @@
+#main {
+  width: 55%;
+  height: 90%;
+  border: 5px solid;
+  border-color: #aab5d1;
+  margin-left: 20%;
+  margin-top: 3%;
+  background-color: #edf3f3;
+  position: absolute;
+}
+#header-div {
+  margin: -1px;
+  background-color: #52ba9a;
+  border-radius: 0 0 7px 7px;
+}
+#inputField {
+  width: 93%;
+  margin-top: 4%;
+  margin-left: 2%;
+  margin-bottom: 4%;
+  height: 12%;
+  border-radius: 3px;
+  padding: 3%;
+  background-color: #58c8ad;
+  color: white;
+  font-size: large;
+  border: none;
+  font-family: sans-serif;
+}
+
+#inputField:focus {
+  outline: none;
+}
+
+::placeholder {
+  color: fdfdfd;
+}
+
+#addButton {
+  cursor: pointer;
+  background-color: whitesmoke;
+  color: teal;
+  width: 10%;
+  height: 75px;
+  margin-left: -7%;
+  top: 14px;
+  border-radius: 50%;
+  border: none;
+  padding: 0.8%;
+  position: relative;
+}
+
+.addIcon {
+  font-size: 350%;
+}
+
+#header-div {
+  margin: -1px;
+  background-color: #52ba9a;
+  border-radius: 0 0 7px 7px;
+}

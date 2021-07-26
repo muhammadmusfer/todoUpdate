@@ -1,0 +1,58 @@
+#delbtn:hover {
+  color: red;
+}
+#delbtn {
+  cursor: pointer;
+  border-radius: 50%;
+  position: absolute;
+  right: 10%;
+  height: 70%;
+  width: 5%;
+  border: none;
+  font-size: x-large;
+  color: #bfcdcb;
+  background-color: white;
+  margin: -4px;
+}
+.deletebtn {
+  cursor: pointer;
+  border: none;
+  font-size: 30px;
+  color: #bfcdcb;
+  padding: 3px;
+  margin: 1px;
+}
+#cmpletebtn {
+  cursor: pointer;
+  border-radius: 50%;
+  position: absolute;
+  right: 2%;
+  height: 70%;
+  width: 5%;
+  border: none;
+  font-size: x-large;
+  color: #bfcdcb;
+  background-color: white;
+  margin: -4px;
+}
+.completebtn {
+  cursor: pointer;
+  border: none;
+  font-size: 32px;
+  padding: 3px;
+  margin: 0px;
+  color: #52ba9a;
+}
+.deletebtn:hover {
+  color: red;
+}
+.vl {
+  border-left: 2px solid;
+  border-left-color: #e0e7e7;
+  height: 25px;
+  position: absolute;
+
+  right: 7%;
+  margin-left: -3px;
+  top: 11px;
+}

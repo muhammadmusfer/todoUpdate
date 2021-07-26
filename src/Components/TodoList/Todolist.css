@@ -1,0 +1,25 @@
+#listItemDiv {
+  height: 80%;
+}
+
+#inCompletTask {
+  height: 45%;
+  overflow: auto;
+  padding-bottom: 4%;
+  margin-bottom: 45;
+}
+
+#CompletTask {
+  height: 45%;
+  overflow: auto;
+}
+
+hr {
+  border-bottom: 1px solid;
+  border-color: #e0e7e7;
+  width: 50%;
+}
+
+.hr {
+  padding: 2%;
+}
